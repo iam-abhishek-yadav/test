@@ -10,3 +10,8 @@ git status
 git diff
 git add . OR git add fileName
 git commit -m 'commit message'
+git push
+
+git stash
+git checkout changeBranch
+git stash pop
